@@ -1,0 +1,1 @@
+<?php return ['appkey'=>'','secretkey'=>'','FreeSignName'=>'','default_account'=>'38689','default_password'=>'6266b17e14b4c37ac49aea098a4d8992','default_sign'=>'海洋世界','sms_type'=>'0'];
